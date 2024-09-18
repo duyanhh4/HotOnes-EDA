@@ -10,3 +10,6 @@ This project explores the YouTube series The Hot Ones, where host Sean Evans int
     + [Seasons.csv](https://github.com/duyanhh4/HotOnes-EDA/blob/main/Datasets/seasons.csv)
     + [Sauces.csv](https://github.com/duyanhh4/HotOnes-EDA/blob/main/Datasets/sauces.csv)
 - IMDb Ratings Data: Aggregated from IMDb into the [Watchlist.csv](https://github.com/duyanhh4/HotOnes-EDA/blob/main/Datasets/WATCHLIST.csv)
+
+## Analysis
+The full code and visualizations are available in the Jupyter Notebook file and the Power Bi file within the Analysis [branch](https://github.com/duyanhh4/HotOnes-EDA/blob/main/Analysis). 
